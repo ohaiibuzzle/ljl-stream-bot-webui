@@ -1,5 +1,7 @@
 # ljl-webui
 
+The WebUI component for [ljl-stream-bot](https://github.com/ohaiibuzzle/ljl-stream-bot), written in Vue.js (because I like to write random stuff in my free time)
+
 ## Project setup
 ```
 yarn install
